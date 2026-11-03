@@ -41,19 +41,29 @@ Endpoint remediation, system cleanup and automation solutions.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaushanWaliya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RaushanWaliya&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=RaushanWaliya&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaushanWaliya&layout=compact&theme=tokyonight" height="180" />
+</p>
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RaushanWaliya&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RaushanWaliya&theme=tokyonight" />
+</p>
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raushanwaliya/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RaushanWaliya)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raushanwaliya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/RaushanWaliya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 > "Great software isn't just written. It's thoughtfully designed and built to solve real-world problems."
+>
+> — Raushan Raj
 
