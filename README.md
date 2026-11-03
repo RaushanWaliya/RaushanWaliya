@@ -41,15 +41,9 @@ Endpoint remediation, system cleanup and automation solutions.
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaushanWaliya&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaushanWaliya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaushanWaliya&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RaushanWaliya&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RaushanWaliya&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
